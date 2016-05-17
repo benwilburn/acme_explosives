@@ -1,0 +1,48 @@
+{
+    "types": [
+    	{
+    		"personal":
+	        {
+	            "id": 0,
+	            "category": 0,
+	            "name": "Personal",
+	            "description": "Fireworks intended for recreational use during holiday celebrations"
+	        },
+        "event":
+	        {
+	        		"id": 0,
+	        		"category": 1,
+	        		"name": "Event",
+	        		"description": "Fireworks meant to excentuate an outing i.e. a touchdown"
+	        },
+        "professional":
+	        {
+	        	"id": 0,
+	        	"category": 2,
+	        	"name": "Professional",
+	        	"description": "Fireworks created for use by trained firework show professionals"
+	        },
+        "small_demolition":
+	        {
+	        	"id": 1,
+	        	"category": 0,
+	        	"name": "Small Demolition",
+	        	"description": "Small explosive typically used by the military"
+	        },
+        "medium_demolition":
+	        {
+	        	"id": 1,
+	        	"category": 1,
+	        	"name": "Medium Demolition",
+	        	"description": "Typically used for construction work"
+	        },
+	      "large_demolition":
+	        {
+	        	"id": 1,
+	        	"category": 2,
+	        	"name": "Large Demolition",
+	        	"description": "Used in the demolition of larger buildings and objects"
+	        }
+      }
+    ]
+}
