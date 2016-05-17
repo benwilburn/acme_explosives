@@ -1,0 +1,132 @@
+{
+    "products": [
+    	{
+        "fairy_sparklers":
+            {
+                "id": 0,
+                "type": 0,
+                "name": "Fairy Sparklers",
+                "description": "Multi-colored sparklers that are safe for any age."
+            },
+        "bottle_rockets":
+            {
+                "id": 0,
+                "type": 0,
+                "name": "Bottle Rockets",
+                "description": "These are rocket motors attached to a stick to allow a stable flight. Because they can be fired from a bottle or other small launching device."
+            },
+        "roman_candles":
+            {
+                "id": 0,
+                "type": 0,
+                "name": "Roman Candles",
+                "description": " These are tubes containing small projectiles that are fired into the air sequentially when the fuse is lit."
+            },
+        "shooting_stars":
+            {
+                "id": 0,
+                "type": 1,
+                "name": "Shooting Stars",
+                "description": "An aerial tube device that, when ignited, shoots burning stars 40 to 50 feet into the air, creating a column of colors, sparks and/or noise as it shoots from the tube. These devices should be fired from a solid, level, surface."
+            },
+        "aerial_reloadable":
+            {
+                "id": 0,
+                "type": 1,
+                "name": "Aerial Re-Loadable",
+                "description": "These are aerial tube devices that come with an empty firing tube and several 'shells' that have long fuses."
+            },
+        "aerial_multishots":
+            {
+                "id": 0,
+                "type": 1,
+                "name": "Aerial Multi-shots",
+                "description": "These are devices that project multiple aerial effects from a single ignition. They range in size from small tubes which fire aerial bursts from 50 to 100 feet in the air, up to large diameter tube devices that sequentially shoot large aerial projectiles hundreds of feet into the air."
+            },
+        "barrage":
+            {
+                "id": 0,
+                "type": 2,
+                "name": "Barrage",
+                "description": "A rapidly fired sequence of firework effects."
+            },
+        "chrysanthemum":
+            {
+                "id": 0,
+                "type": 2,
+                "name": "Chrysanthemum",
+                "description": "A dense spherical burst of stars, in which the stars leave a burning trail of particles as they expand outward. This is a very well known type of firework shell break."
+            },
+        "finale":
+            {
+                "id": 0,
+                "type": 2,
+                "name": "Finale",
+                "description": "A rapidly fired sequence of aerial fireworks, typically fired at the end of a display. Individual fireworks sometimes have a speed up ending such as a 25 shot cake shooting up 20 shots at a normal pace with the last 5 shots being fired rapidly."
+            },
+        "c4":
+            {
+                "id": 1,
+                "type": 0,
+                "name": "C4",
+                "description": "C-4 is composed of explosives, plastic binder, plasticizer to make it malleable, and usually a marker or odorizing taggant chemical."
+            },
+        "grenade":
+            {
+                "id": 1,
+                "type": 0,
+                "name": "Grenade",
+                "description": "A small shell containing an explosive and thrown by hand or fired from a rifle or launching device."
+            },
+        "mine":
+            {
+                "id": 1,
+                "type": 0,
+                "name": "Mine",
+                "description": "A bomb that is buried in the ground and that explodes when someone steps on it or drives over it"
+            },
+        "dynamite":
+            {
+                "id": 1,
+                "type": 1,
+                "name": "Dynamite",
+                "description": "Used mainly as bottom charge or in underwater blasting"
+            },
+        "tnt":
+            {
+                "id": 1,
+                "type": 1,
+                "name": "TNT",
+                "description": "TNT is one of the most commonly used explosives for military and industrial applications. It is valued partly because of its insensitivity to shock and friction."
+            },
+        "semtex":
+            {
+                "id": 1,
+                "type": 1,
+                "name": "Semtex",
+                "description": "Used in commercial blasting, demolition, and in certain military applications."
+            },
+        "thermite":
+            {
+                "id": 1,
+                "type": 2,
+                "name": "Thermite",
+                "description": "Most varieties are not explosive but can create brief bursts of high temperature in a small area."
+            },
+        "hmx":
+            {
+                "id": 1,
+                "type": 2,
+                "name": "HMX",
+                "description": "A powerful and relatively insensitive nitroamine high explosive, chemically related to RDX."
+            },
+        "atom_bomb":
+            {
+                "id": 1,
+                "type": 2,
+                "name": "Atom Bomb",
+                "description": "Typically used for demolishing a large area at once when not worried about saving buildings"
+            }
+        }
+    ]
+}
